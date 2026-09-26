@@ -1,0 +1,16 @@
+OPEN THIS FOLDER. index.html IS IN HERE.
+
+This folder is the website. GitHub Pages looks for index.html.
+
+Upload EVERYTHING INSIDE this ISWAS folder to the root of the GitHub
+repository JOTSmedia/ISWAS. After the upload, index.html must sit next
+to the assets folder in the repository, not inside a second ISWAS folder.
+
+Delete the old source files from the repo (package.json, vite.config.ts,
+src, and so on). Those are not the website, and they do not include a
+home page.
+
+Then: Settings, Pages, Deploy from branch, main, folder / (root).
+
+The address is https://jotsmedia.github.io/ISWAS/
+The capital letters match the repository name. GitHub Pages is case-sensitive.
