@@ -1,0 +1,4 @@
+index.html is in this folder.
+Upload every file and folder here to the root of https://github.com/JOTSmedia/ISWAS
+Do not put them inside another folder.
+Site: https://jotsmedia.github.io/ISWAS/
